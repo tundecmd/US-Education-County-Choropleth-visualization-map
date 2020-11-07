@@ -1,0 +1,24 @@
+{
+  "name": "us-education-county-choropleth-visualization-map",
+  "version": "1.0.0",
+  "description": "d3 choropleth map  visualization project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tundecmd/US-Education-County-Choropleth-visualization-map.git"
+  },
+  "keywords": [
+    "d3",
+    "choropleth",
+    "map"
+  ],
+  "author": "tundecmd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tundecmd/US-Education-County-Choropleth-visualization-map/issues"
+  },
+  "homepage": "https://github.com/tundecmd/US-Education-County-Choropleth-visualization-map#readme"
+}

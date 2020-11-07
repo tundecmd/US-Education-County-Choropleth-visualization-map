@@ -1,0 +1,16 @@
+body {
+  margin: 0px;
+  overflow: hidden;
+  background-color: lightblue;
+}
+.sphere {
+  fill: #4242e4;
+ }
+ .county {
+  fill: lightgreen;
+  stroke: black;
+  stroke-width: 0.05px;
+ }
+ .county:hover {
+  fill: red;
+ }
